@@ -2,7 +2,7 @@
   "name": "tweetremover",
   "version": "0.0.1",
   "description": "Use Topsy search API to remove ",
-  "homepage": "https://github.com/FGRibreau/tweetremover",
+  "homepage": "http://blog.fgribreau.com/2013/09/how-i-hijacked-topsy-private-search-api.html",
   "author": "Francois-Guillaume Ribreau <npm@fgribreau.com> (http://twitter.com/FGRibreau)",
   "repository": {
     "type": "git",
