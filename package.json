@@ -1,0 +1,26 @@
+{
+  "name": "tweetremover",
+  "version": "0.0.1",
+  "description": "Use Topsy search API to remove ",
+  "homepage": "https://github.com/FGRibreau/tweetremover",
+  "author": "Francois-Guillaume Ribreau <npm@fgribreau.com> (http://twitter.com/FGRibreau)",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/FGRibreau/tweetremover.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FGRibreau/tweetremover/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/FGRibreau/tweetremover/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "destroyThemAll.js",
+  "dependencies": {
+    "lodash": "~1.3.1",
+    "request": "~2.27.0",
+    "async": "~0.2.9"
+  }
+}
